@@ -1,62 +1,46 @@
 # Theme Park Wait Times Collector
 
-Automated data collection agent for Walt Disney World and Universal Orlando ride wait times, weather, and park operating hours.
+Collect ride wait times, weather, and park hours for Walt Disney World + Universal Orlando. Data saves to CSV files you can open in Excel.
 
 ## Quick Start
 
-```bash
-# Install
-python3 -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-pip install -e ".[dev]"
-
-# Seed dimension tables
-python scripts/seed_dimensions.py
-python scripts/seed_events.py
-
-# Collect data
-python -m parkwaits collect hourly    # wait times + weather
-python -m parkwaits collect daily     # park hours
-python -m parkwaits status            # view collection status
-python -m parkwaits discover          # find park entity IDs
+1. Install Python dependencies (only 2):
+```
+pip install requests pandas
 ```
 
-## Architecture
+2. Run the collector:
+```
+python collect_all.py
+```
 
-- **Data Source**: ThemeParks.wiki API (primary), Queue-Times.com (fallback), Open-Meteo (weather)
-- **Storage**: Parquet files organized by `data/{dataset}/{year}/{YYYY-MM}.parquet`
-- **Scheduling**: GitHub Actions cron (hourly, daily, weekly)
-- **Query Engine**: DuckDB for analytics
-- **Cost**: $0/month (free APIs + GitHub Actions free tier)
+3. Open the CSV files in Excel:
+- `data/wait_times.csv` — ride wait times
+- `data/weather.csv` — current weather
+- `data/park_hours.csv` — park operating hours
+
+## Individual Scripts
+
+```
+python collect_wait_times.py    # Just wait times
+python collect_weather.py       # Just weather
+python collect_park_hours.py    # Just park hours
+python collect_all.py           # Everything at once
+```
 
 ## Parks Covered
 
-### Walt Disney World
-- Magic Kingdom, EPCOT, Hollywood Studios, Animal Kingdom
+**Walt Disney World:** Magic Kingdom, EPCOT, Hollywood Studios, Animal Kingdom
 
-### Universal Orlando
-- Universal Studios Florida, Islands of Adventure, Volcano Bay, Epic Universe
+**Universal Orlando:** Universal Studios Florida, Islands of Adventure, Volcano Bay, Epic Universe
 
-## Data Layout
+## Data Sources
 
-```
-data/
-  wait_times/     # Ride wait times (hourly)
-  weather/        # Weather observations (hourly)
-  park_hours/     # Operating hours (twice daily)
-  events/         # Historical events catalog
-  dimensions/     # Parks, rides, calendar lookup tables
-  ml/             # ML feature store (auto-built)
-  collection_log/ # Run history
-```
+- [ThemeParks.wiki](https://themeparks.wiki) — ride wait times and park hours (primary)
+- [Queue-Times.com](https://queue-times.com) — ride wait times (fallback)
+- [Open-Meteo](https://open-meteo.com) — weather data
 
-## GitHub Actions
-
-| Workflow | Schedule | What it collects |
-|----------|----------|-----------------|
-| Hourly | Every hour 7AM-midnight ET | Wait times + weather |
-| Daily | 6AM + 6PM ET | Park hours + feature rebuild |
-| Weekly | Monday 8AM ET | Ride metadata + events refresh |
+All APIs are free, no keys needed.
 
 ## License
 
