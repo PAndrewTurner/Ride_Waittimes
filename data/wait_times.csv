@@ -79546,3 +79546,180 @@ timestamp,date,hour,park,ride,ride_slug,wait_minutes,status,has_lightning_lane,s
 2026-04-03 16:25:52,2026-04-03,11,vb,Puihi of Maku Puihi Round Raft Rides™,puihi-of-maku-puihi-round-raft-rides,,closed,False,themeparks_wiki
 2026-04-03 16:25:52,2026-04-03,11,vb,Honu of Honu ika Moana™,honu-of-honu-ika-moana,,closed,False,themeparks_wiki
 2026-04-03 16:25:52,2026-04-03,11,vb,Tot Tiki Reef™,tot-tiki-reef,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,A Pirate's Adventure ~ Treasures of the Seven Seas,a-pirates-adventure-treasures-of-the-seven-seas,,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Walt Disney's Carousel of Progress,walt-disneys-carousel-of-progress,5.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Casey Jr. Splash 'N' Soak Station,casey-jr-splash-n-soak-station,,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Space Mountain,space-mountain,65.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Peter Pan's Flight,peter-pans-flight,55.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,The Magic Carpets of Aladdin,the-magic-carpets-of-aladdin,35.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Mad Tea Party,mad-tea-party,30.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,The Hall of Presidents,the-hall-of-presidents,15.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Tomorrowland Speedway,tomorrowland-speedway,20.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Country Bear Musical Jamboree,country-bear-musical-jamboree,10.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,The Barnstormer,the-barnstormer,40.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Big Thunder Mountain Railroad,big-thunder-mountain-railroad,,refurbishment,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Seven Dwarfs Mine Train,seven-dwarfs-mine-train,70.0,operating,True,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Jungle Cruise,jungle-cruise,50.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Cinderella Castle,cinderella-castle,,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Monsters Inc. Laugh Floor,monsters-inc-laugh-floor,10.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Tiana's Bayou Adventure,tianas-bayou-adventure,70.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Walt Disney World Railroad - Fantasyland,walt-disney-world-railroad-fantasyland,20.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Buzz Lightyear's Space Ranger Spin,buzz-lightyears-space-ranger-spin,40.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Tomorrowland Transit Authority PeopleMover,tomorrowland-transit-authority-peoplemover,10.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Haunted Mansion,haunted-mansion,30.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Dumbo the Flying Elephant,dumbo-the-flying-elephant,35.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,TRON Lightcycle / Run,tron-lightcycle-run,90.0,operating,True,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,"""it's a small world""",its-a-small-world,40.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Prince Charming Regal Carrousel,prince-charming-regal-carrousel,15.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Astro Orbiter,astro-orbiter,25.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Pirates of the Caribbean,pirates-of-the-caribbean,35.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Enchanted Tales with Belle,enchanted-tales-with-belle,25.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,The Many Adventures of Winnie the Pooh,the-many-adventures-of-winnie-the-pooh,20.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Mickey's PhilharMagic,mickeys-philharmagic,10.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,"Walt Disney World Railroad - Main Street, U.S.A.",walt-disney-world-railroad-main-street-u-s-a,20.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Walt Disney's Enchanted Tiki Room,walt-disneys-enchanted-tiki-room,10.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Under the Sea - Journey of The Little Mermaid,under-the-sea-journey-of-the-little-mermaid,35.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Main Street Vehicles,main-street-vehicles,,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,mk,Swiss Family Treehouse,swiss-family-treehouse,5.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,epcot,American Heritage Gallery,american-heritage-gallery,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Kidcot Fun Stops,kidcot-fun-stops,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Palais du Cinéma,palais-du-cin-ma,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,"ImageWorks - The ""What If"" Labs",imageworks-the-what-if-labs,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Bijutsu-kan Gallery,bijutsu-kan-gallery,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Disney and Pixar Short Film Festival,disney-and-pixar-short-film-festival,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Journey Into Imagination With Figment,journey-into-imagination-with-figment,20.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Meet Beloved Disney Pals at Mickey & Friends,meet-beloved-disney-pals-at-mickey-friends,15.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Project Tomorrow: Inventing the Wonders of the Future,project-tomorrow-inventing-the-wonders-of-the-future,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Spaceship Earth,spaceship-earth,25.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Advanced Training Lab,advanced-training-lab,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Guardians of the Galaxy: Cosmic Rewind,guardians-of-the-galaxy-cosmic-rewind,105.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Mission: SPACE,mission-space,30.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Test Track,test-track,95.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Test Track Presented by Chevrolet Single Rider,test-track-presented-by-chevrolet-single-rider,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Awesome Planet,awesome-planet,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Bruce's Shark World,bruces-shark-world,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,"Journey of Water, Inspired by Moana",journey-of-water-inspired-by-moana,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Living with the Land,living-with-the-land,10.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,SeaBase Aquarium,seabase-aquarium,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Soarin' Around the World,soarin-around-the-world,65.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,The Seas with Nemo & Friends,the-seas-with-nemo-friends,30.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Turtle Talk With Crush,turtle-talk-with-crush,15.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Canada Far and Wide in Circle-Vision 360,canada-far-and-wide-in-circle-vision-360,15.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Frozen Ever After,frozen-ever-after,60.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Gallery of Arts and History,gallery-of-arts-and-history,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Gran Fiesta Tour Starring The Three Caballeros,gran-fiesta-tour-starring-the-three-caballeros,10.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,House of the Whispering Willows,house-of-the-whispering-willows,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Meet Anna and Elsa at Royal Sommerhus,meet-anna-and-elsa-at-royal-sommerhus,55.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Mexico Folk Art Gallery,mexico-folk-art-gallery,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Remy's Ratatouille Adventure,remys-ratatouille-adventure,85.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Remy's Ratatouille Adventure Single Rider,remys-ratatouille-adventure-single-rider,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,epcot,Stave Church Gallery,stave-church-gallery,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Meet Ariel at Walt Disney Presents,meet-ariel-at-walt-disney-presents,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,The Little Mermaid – A Musical Adventure – New!,the-little-mermaid-a-musical-adventure-new,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Walt Disney Presents,walt-disney-presents,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Meet Disney Stars at Red Carpet Dreams,meet-disney-stars-at-red-carpet-dreams,30.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,For the First Time in Forever: A Frozen Sing-Along Celebration,for-the-first-time-in-forever-a-frozen-sing-along-celebration,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Indiana Jones™ Epic Stunt Spectacular!,indiana-jones-epic-stunt-spectacular,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Meet Olaf at Celebrity Spotlight,meet-olaf-at-celebrity-spotlight,10.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Star Tours – The Adventures Continue,star-tours-the-adventures-continue,20.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Vacation Fun - An Original Animated Short with Mickey & Minnie,vacation-fun-an-original-animated-short-with-mickey-minnie,10.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Mickey & Minnie's Runaway Railway,mickey-minnies-runaway-railway,60.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Meet Edna Mode at the Edna Mode Experience,meet-edna-mode-at-the-edna-mode-experience,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Toy Story Mania!,toy-story-mania,70.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Millennium Falcon: Smugglers Run,millennium-falcon-smugglers-run,95.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Millennium Falcon: Smugglers Run Single Rider,millennium-falcon-smugglers-run-single-rider,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Star Wars: Rise of the Resistance,star-wars-rise-of-the-resistance,105.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Star Wars: Rise of the Resistance Single Rider,star-wars-rise-of-the-resistance-single-rider,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Beauty and the Beast – Live on Stage,beauty-and-the-beast-live-on-stage,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Rock 'n' Roller Coaster Starring Aerosmith,rock-n-roller-coaster-starring-aerosmith,,closed,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Rock 'n' Roller Coaster Starring Aerosmith Single Rider,rock-n-roller-coaster-starring-aerosmith-single-rider,,closed,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,The Twilight Zone Tower of Terror™,the-twilight-zone-tower-of-terror,135.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Alien Swirling Saucers,alien-swirling-saucers,45.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,hs,Slinky Dog Dash,slinky-dog-dash,100.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Festival of the Lion King,festival-of-the-lion-king,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Gorilla Falls Exploration Trail,gorilla-falls-exploration-trail,5.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Kilimanjaro Safaris,kilimanjaro-safaris,100.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Wildlife Express Train,wildlife-express-train,,closed,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Expedition Everest - Legend of the Forbidden Mountain,expedition-everest-legend-of-the-forbidden-mountain,65.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Expedition Everest - Legend of the Forbidden Mountain Single Rider,expedition-everest-legend-of-the-forbidden-mountain-single-rider,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Feathered Friends in Flight!,feathered-friends-in-flight,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Kali River Rapids,kali-river-rapids,70.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Finding Nemo: The Big Blue... and Beyond!,finding-nemo-the-big-blue-and-beyond,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Discovery Island Trails,discovery-island-trails,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Meet Favorite Disney Pals at Adventurers Outpost,meet-favorite-disney-pals-at-adventurers-outpost,25.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Meet Moana at Character Landing,meet-moana-at-character-landing,,closed,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Tree of Life,tree-of-life,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Zootopia: Better Zoogether! - NEW!,zootopia-better-zoogether-new,25.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Avatar Flight of Passage,avatar-flight-of-passage,110.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Na'vi River Journey,navi-river-journey,55.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Affection Section,affection-section,,closed,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Animal Care at Conservation Station,animal-care-at-conservation-station,,closed,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,The Oasis Exhibits,the-oasis-exhibits,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,ak,Wilderness Explorers,wilderness-explorers,0.0,operating,False,queue_times
+2026-04-03 17:23:39,2026-04-03,12,usf,Fast & Furious - Supercharged™,fast-furious-supercharged,25.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Illumination Theater,illumination-theater,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,El Artista: A Spanish Haunting,el-artista-a-spanish-haunting,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Gálkn: Monsters of the North,g-lkn-monsters-of-the-north,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Dolls: Let’s Play Dead,dolls-lets-play-dead,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Grave of Flesh,grave-of-flesh,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Hatchet and Chains: Demon Bounty Hunters,hatchet-and-chains-demon-bounty-hunters,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,JASON UN1V3RSE,jason-un1v3rse,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,WWE Presents: The Horrors of the Wyatt Sicks,wwe-presents-the-horrors-of-the-wyatt-sicks,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Terrifier,terrifier,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Hogwarts™ Express - First Train,hogwarts-express-first-train,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Illumination's Villain-Con Minion Blast,illuminations-villain-con-minion-blast,10.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Five Nights At Freddy’s,five-nights-at-freddys,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Despicable Me Minion Mayhem™,despicable-me-minion-mayhem,35.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Revenge of the Mummy™,revenge-of-the-mummy,65.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Fallout,fallout,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,MEN IN BLACK™ Alien Attack!™,men-in-black-alien-attack,25.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,E.T. Adventure™,e-t-adventure,55.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,TRANSFORMERS™: The Ride-3D,transformers-the-ride-3d,35.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Harry Potter and the Escape from Gringotts™,harry-potter-and-the-escape-from-gringotts,60.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Hollywood Rip Ride Rockit™,hollywood-rip-ride-rockit,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Hogwarts™ Express - King's Cross Station,hogwarts-express-kings-cross-station,35.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Kang & Kodos' Twirl 'n' Hurl,kang-kodos-twirl-n-hurl,25.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Race Through New York Starring Jimmy Fallon™,race-through-new-york-starring-jimmy-fallon,25.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,The Simpsons Ride™,the-simpsons-ride,15.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,usf,Trolls Trollercoaster,trolls-trollercoaster,30.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,Jurassic Park Discovery Center™,jurassic-park-discovery-center,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,Camp Jurassic™,camp-jurassic,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,If I Ran The Zoo™,if-i-ran-the-zoo,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,Jurassic Park River Adventure™,jurassic-park-river-adventure,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,Pteranodon Flyers™,pteranodon-flyers,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,The Amazing Adventures of Spider-Man®,the-amazing-adventures-of-spider-man,,down,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,The Cat in The Hat™,the-cat-in-the-hat,20.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,The Incredible Hulk Coaster®,the-incredible-hulk-coaster,130.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,Harry Potter and the Forbidden Journey™,harry-potter-and-the-forbidden-journey,35.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,Popeye & Bluto's Bilge-Rat Barges®,popeye-blutos-bilge-rat-barges,20.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,Skull Island: Reign of Kong™,skull-island-reign-of-kong,50.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,Flight of the Hippogriff™,flight-of-the-hippogriff,50.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,Caro-Seuss-el™,caro-seuss-el,15.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,Storm Force Accelatron®,storm-force-accelatron,10.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,"Me Ship, The Olive®",me-ship-the-olive,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,Dudley Do-Right's Ripsaw Falls®,dudley-do-rights-ripsaw-falls,40.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,The High in the Sky Seuss Trolley Train Ride!™,the-high-in-the-sky-seuss-trolley-train-ride,20.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,"One Fish, Two Fish, Red Fish, Blue Fish™",one-fish-two-fish-red-fish-blue-fish,25.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,Jurassic World VelociCoaster,jurassic-world-velocicoaster,70.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,Doctor Doom's Fearfall®,doctor-dooms-fearfall,25.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,Hogwarts™ Express - Hogsmeade™ Station,hogwarts-express-hogsmeade-station,70.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,ioa,Hagrid's Magical Creatures Motorbike Adventure™,hagrids-magical-creatures-motorbike-adventure,120.0,operating,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,Krakatau™ Aqua Coaster,krakatau-aqua-coaster,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,Punga Racers™,punga-racers,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,Kala & Tai Nui Serpentine Body Slides™,kala-tai-nui-serpentine-body-slides,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,Tonga of Taniwha Tubes™,tonga-of-taniwha-tubes,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,Ko'okiri Body Plunge™,kookiri-body-plunge,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,ika Moana of Honu ika Moana™,ika-moana-of-honu-ika-moana,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,The Reef,the-reef,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,Puka Uli Lagoon™,puka-uli-lagoon,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,Maku of Maku Puihi Round Raft Rides™,maku-of-maku-puihi-round-raft-rides,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,Kopiko Wai Winding River™,kopiko-wai-winding-river,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,Ohyah of the Ohyah and Ohno Drop Slides™,ohyah-of-the-ohyah-and-ohno-drop-slides,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,TeAwa The Fearless River™,teawa-the-fearless-river,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,Runamukka Reef™,runamukka-reef,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,Raki of Taniwha Tubes™,raki-of-taniwha-tubes,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,Ohno of the Ohyah and Ohno Drop Slides™,ohno-of-the-ohyah-and-ohno-drop-slides,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,Waturi Beach,waturi-beach,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,Puihi of Maku Puihi Round Raft Rides™,puihi-of-maku-puihi-round-raft-rides,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,Honu of Honu ika Moana™,honu-of-honu-ika-moana,,closed,False,themeparks_wiki
+2026-04-03 17:23:39,2026-04-03,12,vb,Tot Tiki Reef™,tot-tiki-reef,,closed,False,themeparks_wiki
