@@ -5447,3 +5447,7 @@ timestamp,park,park_name,date,open_time,close_time,early_entry_time,has_early_en
 2026-07-01 02:08:12,usf,Universal Studios Florida,2026-06-30,09:00,20:00,,False
 2026-07-01 02:08:12,ioa,Islands of Adventure,2026-06-30,08:00,21:00,07:00,True
 2026-07-01 02:08:12,vb,Volcano Bay,2026-06-30,08:00,18:00,07:00,True
+2026-07-01 07:00:25,mk,Magic Kingdom,2026-07-01,08:00,21:00,,False
+2026-07-01 07:00:25,usf,Universal Studios Florida,2026-07-01,09:00,20:00,,False
+2026-07-01 07:00:25,ioa,Islands of Adventure,2026-07-01,08:00,20:00,07:00,True
+2026-07-01 07:00:25,vb,Volcano Bay,2026-07-01,08:00,18:00,07:00,True
